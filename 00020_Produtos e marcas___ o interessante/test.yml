@@ -1,0 +1,2 @@
+- type: query
+  expected: SELECT produtos.nome, marcas.nome from produtos, marcas where produtos.id_marca = marcas.id;
