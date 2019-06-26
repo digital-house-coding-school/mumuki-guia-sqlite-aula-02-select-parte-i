@@ -3,7 +3,7 @@ CREATE TABLE categorias (
   nome TEXT NOT NULL,
   id_categoria_pai INTEGER DEFAULT NULL,
   FOREIGN KEY(id_categoria_pai) REFERENCES categorias(id)
-)
+);
 
 INSERT INTO categorias (id, nome, id_categoria_pai) VALUES (1,'Eletrodomésticos',NULL),(2,'Consoles e vídeo games',NULL),(3,'Celulares',NULL),(4,'Condicionadores de ar',NULL),(5,'Informática',NULL),(6,'Comida',NULL),(7,'Bebida',NULL),(8,'Fruta',6),(9,'Verdura',6),(10,'Carnes',6),(11,'refrigerante',7),(12,'Bebidas alcoólicas',7),(13,'Águas aromatizadas',7),(14,'Águas',7),(15,'Portáteis',2),(16,'Fornos',1),(17,'Máquinas de lavar roupas',1),(18,'Geladeiras',1),(19,'Microondas',1),(22,'Computadores',5),(23,'Impressoras',5),(24,'Notebooks',5),(25,'Televisores',NULL),(26,'Massas',6);
 
