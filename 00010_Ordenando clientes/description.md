@@ -1,4 +1,4 @@
-Óbserve uma tabela de clientes com a seguinte estrutura:
+imentÓbserve uma tabela de clientes com a seguinte estrutura:
 
 <div
   class='mu-erd'
@@ -23,16 +23,16 @@
       "celular": {
         "type": "Text"
       },
-      "fecha_de_nacimiento": {
+      "fecha_de_nacimento": {
         "type": "Datetime"
       },
-      "id_producto_preferido" : {
+      "id_produto_preferido" : {
         "type": "Integer"
       }
     }
   }'>
 </div>
 
-Dada esta nueva tabla te pedimos lo siguiente:
+Baseado nesta tabela, desejamos o seguinte:
 
-> Realiza una consulta que traiga todos los clientes ordenados por nombre.
+> Faça uma consulta que exiba todos os clientes ordenados por nome.
