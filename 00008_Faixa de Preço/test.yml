@@ -1,0 +1,2 @@
+- type: query
+  expected: SELECT nome, preco FROM produtos WHERE preco BETWEEN 1000 AND 10000;
