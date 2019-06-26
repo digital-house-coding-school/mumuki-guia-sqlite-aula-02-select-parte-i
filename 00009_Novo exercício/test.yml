@@ -1,2 +1,2 @@
 - type: query
-  expected: SELECT nombre, precio, puntuacion FROM productos where (precio < 10000 and precio > 1000) or puntuacion > 4;
+  expected: SELECT nome, preco, pontuacao FROM produtos WHERE (preco < 10000 and preco > 1000) OR pontuacao > 4;

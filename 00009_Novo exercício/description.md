@@ -8,4 +8,4 @@ Vamos utilizar alguns filtros adicionais. Portanto desejamos o seguinte:
 
 Ou seja, se um produto vale R$500, mas sua pontuação é 4.5, queremos vê-lo no resultado.
 
-Além disso, solicitaremos que você utilize apenas as colunas ** nome **, ** preço ** e ** pontuação ** no resultado.
+Além disso, solicitaremos que você utilize apenas as colunas **nome**, **preco** e **pontuacao** para exibir o resultado.
