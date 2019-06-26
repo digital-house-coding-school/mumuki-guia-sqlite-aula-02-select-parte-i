@@ -71,7 +71,7 @@ Desta forma, o nosso diagrama é assim:
 
 Para este último exercício desejamos ua consulta que explore as 3 tabelas!!!
 
-Para isso, é importante esclarecer no **WHERE** onde estão os relacionamentos que juntam essas tabelas para trazer os dados realmente relevantes.
+Para isso, é importante esclarecer no **WHERE** onde estão os relacionamentos que juntam essas tabelas para trazer os dados realmente relevantes. Podemos pensar que: na tabela **produto** temos o campo **id** que se relaciona com o campo **id_produto** da tabela **vendas** e na tabela clientes temos o campo **id** que se relaciona com o campo **id_cliente** da tabelas **vendas** 
 
 Diante disso, queremos uma consulta que nos permita visualizar os clientes e quais produtos eles compraram.
 
