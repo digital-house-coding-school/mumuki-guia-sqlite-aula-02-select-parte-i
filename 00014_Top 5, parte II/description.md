@@ -1,0 +1,1 @@
+Seguiremos consultando o topo de nossos produtos ordenados por pontuação, porém, neste caso queremos a parte 2, ou seja, exibir os produtos classificados nas posições 6, 7, 8, 9 e 10 do nosso ranking.

@@ -1,0 +1,2 @@
+- type: query
+  expected: SELECT * from productos order by puntuacion desc limit 5 offset 5;

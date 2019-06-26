@@ -1,1 +1,2 @@
-SELECT * FROM produtos ORDER BY pontuacao DESC LIMIT 5;
+- type: query
+  expected: SELECT * FROM produtos ORDER BY pontuacao DESC LIMIT 5;
