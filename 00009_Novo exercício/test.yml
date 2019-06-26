@@ -1,2 +1,2 @@
 - type: query
-  expected: SELECT nome, preco, pontuacao FROM produtos WHERE (preco < 10000 and preco > 1000) OR pontuacao > 4;
+expected: SELECT nome, preco, pontuacao FROM produtos WHERE (preco < 10000 and preco > 1000) OR pontuacao > 4;
