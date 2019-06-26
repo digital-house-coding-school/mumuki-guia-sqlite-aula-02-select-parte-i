@@ -1,0 +1,1 @@
+Usando o operador **LIKE**, iremos procurar todos os produtos cujo nome comecem com o texto "iPhone". Não se preocupe com maiúsculas e minúsculas, pois o **LIKE** não faz distinção entre eles.
