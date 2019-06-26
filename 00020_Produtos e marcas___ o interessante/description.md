@@ -4,6 +4,6 @@ Mas, como podemos fazer para indicar de qual tabela queremos o nome da coluna?
 
 O select seria algo parecido com isto, onde indicamos a tabela.colunaDaTabela:
 
-`SELECT products.name ...`
+`SELECT produtos.name ...`
 
 O operador de ponto nos permite especificar que queremos uma coluna de uma determinada tabela.
