@@ -1,2 +1,2 @@
 - type: query
-  expected: SELECT nome, sobrenome, telefone, data_nascimento FROM clientes WHERE telefone is not null ORDER BY data_de_nascimento DESC;
+  expected: SELECT nome, sobrenome, telefone, data_de_nascimento FROM clientes WHERE telefone is not null ORDER BY data_de_nascimento DESC;
