@@ -1,0 +1,1 @@
+O mesmo desafio de antes, mas agora a letra P tem de ser **duas vezes**, seguindo a mesma linha de raciocínio, deverá ser exibido o produto que possuir a sequência **PP** independentemente da parte do nome do produto.
