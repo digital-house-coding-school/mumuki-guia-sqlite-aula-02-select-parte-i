@@ -19,4 +19,4 @@ Para começar, nossos produtos terão categorias com as quais conhecemos a prime
 
 Para este primeiro exercício:
 
-> Faça uma consulta que traga todos os dados de todas as marcas
+> Faça uma consulta que exiba todos os dados de todas as marcas
