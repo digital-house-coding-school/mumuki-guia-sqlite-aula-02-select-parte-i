@@ -1,0 +1,2 @@
+- type: query
+  expected: SELECT * FROM productos where precio < 1000;
