@@ -1,0 +1,2 @@
+- type: query
+  expected: SELECT * from clientes ORDER BY nome, sobrenome;
