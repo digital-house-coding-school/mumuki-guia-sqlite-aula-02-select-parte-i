@@ -1,0 +1,2 @@
+- type: query
+  expected: SELECT nome, preco/pontuacao FROM produtos;
