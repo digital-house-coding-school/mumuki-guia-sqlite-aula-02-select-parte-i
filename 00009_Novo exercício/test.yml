@@ -1,2 +1,2 @@
 - type: query
-  expected: SELECT * from clientes order by nome;
+expected: SELECT nome, preco, pontuacao FROM produtos WHERE preco > 1000 and preco < 10000 OR pontuacao > 4;
